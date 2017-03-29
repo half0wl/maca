@@ -18,4 +18,4 @@ Clicked x=1140.57421875 y=401.890625
 
 * Auto-clicking upon trigger (with `NSTimer` maybe?)
 * Hotkey trigger (with `NSEvent` & `NSKeyDownMask`)
-* GUI? With either PyQt or Tkinter. Or CLI? Or menubar app (similar to [simon](https://github.com/hcyrnd/simon/))?
+* GUI? With either PyQt or Tkinter. Or CLI? Or menubar app (similar to [simon](https://github.com/half0wl/simon/))?
